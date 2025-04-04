@@ -1,0 +1,6 @@
+tenancy_ocid = "ocid1.tenancy.oc1..aaaaaaaaats3vpt43eyb7d6djyot4nzy4d7qqe4ajiwr2vnn2rbffcdo34nq"
+user_ocid = "ocid1.user.oc1..aaaaaaaahokvq2iopjkji32isfknkypne5my2mkytevtzgyipsmztqy7a5eq"
+fingerprint = "32:eb:01:00:ac:37:6e:82:43:c3:17:4d:a2:ff:f8:56"
+private_key_path = "D:/Assignment2/private_key.pem"
+region = "me-jeddah-1"
+compartment_ocid = "ocid1.compartment.oc1..aaaaaaaaz3hsfanenq35tudelzo2vanlnha5l3hsm4j676uacbztwzxw6vza"
